@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+xgboost
+sagemaker==2.245.0
+boto3
+s3fs
